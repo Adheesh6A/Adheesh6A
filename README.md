@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Adheesh6A
+- 👋 Hi, I’m Adheesh
 - 👀 I’m interested in HTML
 - 🌱 I’m currently learning HTML
